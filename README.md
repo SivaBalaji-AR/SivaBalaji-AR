@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm an UnderGrad Student. Here you'll find a colle
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sivaarsb)
 
+![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+
 ## ✨ Featured Projects
 ### [Quizia](https://quizia-lac.vercel.app/)
 ![Project Screenshot](Link to Image or Screenshot)
