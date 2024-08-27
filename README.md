@@ -17,6 +17,8 @@ Welcome to my GitHub profile! I'm a [Your Profession or Role] passionate about [
 ## 📈 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+
 ## ✨ Featured Projects
 ### [Project Name](Link to Project)
 ![Project Screenshot](Link to Image or Screenshot)
