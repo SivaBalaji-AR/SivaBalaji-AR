@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [Your Name] 
+# Hi there! 👋 I'm Siva 
 
-Welcome to my GitHub profile! I'm a [Your Profession or Role] passionate about [Your Interests or Specializations]. Here you'll find a collection of my work, including personal projects, contributions to open-source, and more. 
+Welcome to my GitHub profile! I'm a UnderGrad Student. Here you'll find a collection of my work, including personal projects, contributions to open-source, and more. 
 
 ## 🚀 About Me
 - **🔭 Currently working on:** [Project or Area of Interest]
