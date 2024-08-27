@@ -17,9 +17,7 @@ Welcome to my GitHub profile! I'm an UnderGrad Student. Here you'll find a colle
 ## 📈 GitHub Stats
 ![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SivaBalaji-AR&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sivaarsb)
-
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sivaarsb?ext=contest)
 
 ## ✨ Featured Projects
 ### [Quizia](https://quizia-lac.vercel.app/)
