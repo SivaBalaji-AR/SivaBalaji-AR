@@ -1,46 +1,46 @@
-# Hi there! 👋 I'm Siva 
+# Hi there! 👋 I'm Siva
 
-Welcome to my GitHub profile! I'm a UnderGrad Student. Here you'll find a collection of my work, including personal projects, contributions to open-source, and more. 
+Welcome to my GitHub profile! I'm an UnderGrad Student. Here you'll find a collection of my work, including personal projects, contributions to open-source, and more.
 
 ## 🚀 About Me
-- **🔭 Currently working on:** [Project or Area of Interest]
-- **🌱 Currently learning:** [Technology or Skill]
-- **👯 Looking to collaborate on:** [Type of Projects or Specific Technologies]
-- **🤔 Currently thinking about:** [Idea or Problem You’re Exploring]
-- **💬 Ask me about:** [Your Expertise or Interests]
+- **🔭 Currently working on:** Full stack MERN projects
+- **🌱 Currently learning:** Python, AI/ML
+- **👯 Looking to collaborate on:** MERN stack and AI/ML-related projects
+- **🤔 Currently thinking about:** No specific ideas or problems
+- **💬 Ask me about:** MERN stack, AI, LLM, ML, and data analytics
 
 ## 🔧 Technologies & Tools
-- **Languages:** [List of Programming Languages]
-- **Frameworks & Libraries:** [List of Frameworks and Libraries]
-- **Tools & Platforms:** [List of Tools and Platforms]
+- **Languages:** JavaScript, C++, Python, Java
+- **Frameworks & Libraries:** React, Vue, Spring
+- **Tools & Platforms:** GitHub, Docker
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SivaBalaji-AR&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SivaBalaji-AR&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sivaarsb)
 
 ## ✨ Featured Projects
-### [Project Name](Link to Project)
+### [Quizia](https://quizia-lac.vercel.app/)
 ![Project Screenshot](Link to Image or Screenshot)
-Brief description of the project. What problem does it solve? Why is it interesting?
-
-### [Another Project](Link to Project)
-![Project Screenshot](Link to Image or Screenshot)
-Brief description of the project. What problem does it solve? Why is it interesting?
+- **Inspiration:** The idea for Adaptive Quiz stemmed from the desire to create a personalized learning experience. Observing that many users struggle with specific topics, I wanted to develop a system that dynamically adapts to their needs. The goal was to provide a more targeted approach to quiz-based learning, helping users focus on their weaknesses and improve efficiently.
+- **What It Does:** Adaptive Quiz starts with introductory questions to gauge user knowledge. It collects topic tags from incorrect answers and then uses this information to suggest subsequent questions based on the most frequent topic tags. Additionally, the integrated chatbot provides hints and necessary resources to help users improve their understanding of the topics.
+- **How We Built It:** Defined core features, developed an algorithm, integrated the Gemini API, and designed a responsive UI.
+- **Challenges We Ran Into:** Algorithm complexity, resource integration, and UI responsiveness.
+- **Accomplishments That We're Proud Of:** Personalized learning experience, dynamic feedback mechanism, and topic weakness display.
+- **What We Learned:** Experience in algorithm development, user engagement, and resource integration.
+- **What's Next:** Feature expansion, user feedback collection, and scalability.
+- **Repository Link:** [GitHub Repository](https://github.com/SivaBalaji-AR/QUIZIA-Complete.git)
 
 ## 🌟 Contributions
-Check out some of my contributions to the open-source community:
-- [Contribution 1](Link to Contribution)
-- [Contribution 2](Link to Contribution)
+- **Vinyasa Summer of Code:** Contributor to the open-source online event.
+- **[Visual-Sort](https://github.com/MastanSayyad/Visual-Sort.git):** Contributed to this repository.
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
-- **Website/Blog:** [Your Website or Blog]
-- **Email:** [Your Email Address]
+- **LinkedIn:** [Siva Balaji A R](https://www.linkedin.com/in/siva-balaji-a-r-582628255)
+- **Email:** sivaarsb@gmail.com
 
 Feel free to explore and get in touch if you want to collaborate or just say hi!
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Siva
