@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an UnderGrad Student. Here you'll find a colle
 - **🌱 Currently learning:** Python, AI/ML
 - **👯 Looking to collaborate on:** MERN stack and AI/ML-related projects
 - **🤔 Currently thinking about:** No specific ideas or problems
-- **💬 Ask me about:** MERN stack, AI, LLM, ML, and data analytics
+- **💬 Ask me about:** MERN stack, AI, LLM, ML .
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, C++, Python, Java
@@ -21,14 +21,10 @@ Welcome to my GitHub profile! I'm an UnderGrad Student. Here you'll find a colle
 
 ## ✨ Featured Projects
 ### [Quizia](https://quizia-lac.vercel.app/)
-![Project Screenshot](Link to Image or Screenshot)
-- **Inspiration:** The idea for Adaptive Quiz stemmed from the desire to create a personalized learning experience. Observing that many users struggle with specific topics, I wanted to develop a system that dynamically adapts to their needs. The goal was to provide a more targeted approach to quiz-based learning, helping users focus on their weaknesses and improve efficiently.
-- **What It Does:** Adaptive Quiz starts with introductory questions to gauge user knowledge. It collects topic tags from incorrect answers and then uses this information to suggest subsequent questions based on the most frequent topic tags. Additionally, the integrated chatbot provides hints and necessary resources to help users improve their understanding of the topics.
-- **How We Built It:** Defined core features, developed an algorithm, integrated the Gemini API, and designed a responsive UI.
-- **Challenges We Ran Into:** Algorithm complexity, resource integration, and UI responsiveness.
-- **Accomplishments That We're Proud Of:** Personalized learning experience, dynamic feedback mechanism, and topic weakness display.
-- **What We Learned:** Experience in algorithm development, user engagement, and resource integration.
-- **What's Next:** Feature expansion, user feedback collection, and scalability.
+- **Inspiration:**
+-  The idea for Adaptive Quiz stemmed from the desire to create a personalized learning experience. Observing that many users struggle with specific topics, I wanted to develop a system that dynamically adapts to their needs. The goal was to provide a more targeted approach to quiz-based learning, helping users focus on their weaknesses and improve efficiently.
+- **What It Does:**
+- Adaptive Quiz starts with introductory questions to gauge user knowledge. It collects topic tags from incorrect answers and then uses this information to suggest subsequent questions based on the most frequent topic tags. Additionally, the integrated chatbot provides hints and necessary resources to help users improve their understanding of the topics.
 - **Repository Link:** [GitHub Repository](https://github.com/SivaBalaji-AR/QUIZIA-Complete.git)
 
 ## 🌟 Contributions
