@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an UnderGrad Student. Here you'll find a colle
 - **🌱 Currently learning:** Python, AI/ML
 - **👯 Looking to collaborate on:** MERN stack and AI/ML-related projects
 - **🤔 Currently thinking about:** No specific ideas or problems
-- **💬 Ask me about:** MERN stack, AI, LLM, ML .
+- **💬 Ask me about:** MERN stack, AI, LLM, ML.
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, C++, Python, Java
@@ -37,6 +37,3 @@ Welcome to my GitHub profile! I'm an UnderGrad Student. Here you'll find a colle
 
 Feel free to explore and get in touch if you want to collaborate or just say hi!
 
----
-
-Made with ❤️ by Siva
