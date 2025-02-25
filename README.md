@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I'm an UnderGrad Student. Here you'll find a colle
 - ScholarChat is an AI-powered academic chatbot built using RAG (Retrieval-Augmented Generation), designed to assist students and researchers in retrieving research papers efficiently.
 - **Features:**
 - Fetches research papers based on user queries.
-- Provides context-aware responses and follow-up question support.
-- Uses a vector store (ChromaDB) to enhance retrieval.
-- Ensures fast and relevant academic search results.
+Provides context-aware responses and follow-up question support.
+Uses a vector store (ChromaDB) to enhance retrieval.
+Ensures fast and relevant academic search results.
 - **Tech Stack**
-- FastAPI , React , ChromaDb , LangChain , HuggingFace(LLM).
+  FastAPI , React , ChromaDb , LangChain , HuggingFace(LLM).
 - **Repository Link:** [GitHub Repository](https://github.com/SivaBalaji-AR/ScholarChat.git)
-- 
+  
 ### [Quizia](https://quizia-lac.vercel.app/)
 - **Inspiration:**
 -  The idea for Adaptive Quiz stemmed from the desire to create a personalized learning experience. Observing that many users struggle with specific topics, I wanted to develop a system that dynamically adapts to their needs. The goal was to provide a more targeted approach to quiz-based learning, helping users focus on their weaknesses and improve efficiently.
