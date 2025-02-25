@@ -21,6 +21,18 @@ Welcome to my GitHub profile! I'm an UnderGrad Student. Here you'll find a colle
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## ✨ Featured Projects
+### ScholarChat
+- **What It Does:**
+- ScholarChat is an AI-powered academic chatbot built using RAG (Retrieval-Augmented Generation), designed to assist students and researchers in retrieving research papers efficiently.
+- **Features:**
+- Fetches research papers based on user queries.
+- Provides context-aware responses and follow-up question support.
+- Uses a vector store (ChromaDB) to enhance retrieval.
+- Ensures fast and relevant academic search results.
+- **Tech Stack**
+- FastAPI , React , ChromaDb , LangChain , HuggingFace(LLM).
+- **Repository Link:** [GitHub Repository](https://github.com/SivaBalaji-AR/ScholarChat.git)
+- 
 ### [Quizia](https://quizia-lac.vercel.app/)
 - **Inspiration:**
 -  The idea for Adaptive Quiz stemmed from the desire to create a personalized learning experience. Observing that many users struggle with specific topics, I wanted to develop a system that dynamically adapts to their needs. The goal was to provide a more targeted approach to quiz-based learning, helping users focus on their weaknesses and improve efficiently.
